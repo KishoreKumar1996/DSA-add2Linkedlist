@@ -1,3 +1,4 @@
+// < /super bro.keep it up go on with your code/ >
 class Node{
   int data;
   Node prev;
